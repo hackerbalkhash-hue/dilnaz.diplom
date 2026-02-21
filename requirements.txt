@@ -1,0 +1,30 @@
+# Python 3.10+ recommended. On Windows python-magic is skipped (optional).
+# ============================================================
+# Install and run the project:
+#   1. Install dependencies:  pip install -r requirements.txt
+#   2. Start the server:       py -m uvicorn main:app --host 127.0.0.1 --port 8000
+#   Open in browser:          http://127.0.0.1:8000
+# ============================================================
+
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+
+# Database
+sqlalchemy==2.0.25
+alembic==1.13.1
+asyncpg==0.29.0
+aiosqlite==0.19.0
+
+# Auth and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+
+# Data validation and serialization
+pydantic==2.6.1
+pydantic-settings==2.1.0
+email-validator==2.1.0
+
+# File handling
+python-magic==0.4.27; sys_platform != 'win32'

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Вход — Изучение казахского языка</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body class="auth-page">
+  <header class="auth-header">
+    <h1>Виртуальный помощник для изучения казахского языка</h1>
+  </header>
+  <div class="auth-container">
+    <div class="auth-card">
+      <h2>Вход</h2>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="example@mail.com" required>
+        </div>
+        <div class="form-group">
+          <label for="password">Пароль</label>
+          <input type="password" id="password" placeholder="••••••••" required>
+        </div>
+        <div id="error" class="error"></div>
+        <button type="submit" class="btn" style="width: 100%; padding: 12px;">Войти</button>
+      </form>
+      <div class="auth-footer">
+        Нет аккаунта? <a href="/register">Регистрация</a>
+      </div>
+    </div>
+  </div>
+  <script src="/static/js/api.js"></script>
+  <script>
+    document.getElementById('loginForm').onsubmit = async (e) => {
+      e.preventDefault();
+      const errEl = document.getElementById('error');
+      errEl.textContent = '';
+      try {
+        const res = await api.auth.login(
+          document.getElementById('email').value,
+          document.getElementById('password').value
+        );
+        localStorage.setItem('token', res.access_token);
+        window.location.href = '/dashboard';
+      } catch (err) {
+        errEl.textContent = err.data?.detail || err.message || 'Ошибка входа';
+      }
+    };
+  </script>
+</body>
+</html>

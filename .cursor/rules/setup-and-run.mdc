@@ -1,0 +1,50 @@
+---
+description: How to install dependencies and run the project when the user asks (e.g. "установи зависимости и запусти проект", "install and run")
+globs: 
+tags: [setup, run, install]
+priority: 1
+---
+
+# Install dependencies and run the project
+
+When the user asks to **install dependencies** and **run** (or **launch**) this project, do the following from the **project root** (`dilnaz.diplom`):
+
+## 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+- Use `pip`, not pip3, unless the environment only has pip3.
+- On Windows, `py -m pip install -r requirements.txt` is also valid.
+- If you see permission or path errors, suggest creating a venv: `python -m venv venv` then activate and run pip again.
+
+## 2. Run the server
+
+```bash
+py -m uvicorn main:app --host 127.0.0.1 --port 8000
+```
+
+- On Windows prefer `py`; on Linux/Mac use `python` or `python3` if needed.
+- Run this command **in the background** (e.g. `is_background: true`) so the user can keep using the chat.
+- Tell the user: "Сервер запущен. Открой в браузере: http://127.0.0.1:8000" (or in English).
+
+## Alternative: one script
+
+The user can also run from project root:
+
+- **Windows:** `.\run.ps1`
+- **Mac/Linux:** `./run.sh`
+
+This script installs dependencies (if needed) and starts the server.
+
+## Optional: seed data
+
+If the user wants initial admin and content, after the first run they can execute:
+
+```bash
+python -m scripts.seed_data
+python -m scripts.seed_content
+```
+
+Login: `admin@example.com` / `admin123`.

@@ -1,0 +1,8702 @@
+[
+{
+"word_kz": "адал",
+"translation_ru": "честный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адас",
+"translation_ru": "заблудиться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ажар",
+"translation_ru": "цвет лица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "азап",
+"translation_ru": "мучение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "айдау",
+"translation_ru": "гнать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "айна",
+"translation_ru": "зеркало",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "айтыс",
+"translation_ru": "состязание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ақиқат",
+"translation_ru": "правда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ақыл",
+"translation_ru": "ум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ақымақ",
+"translation_ru": "глупый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алақан",
+"translation_ru": "ладонь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алаң",
+"translation_ru": "площадь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алғыс",
+"translation_ru": "благодарность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алды",
+"translation_ru": "перед",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алыс",
+"translation_ru": "далеко",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алып",
+"translation_ru": "взяв",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аман",
+"translation_ru": "здоровый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аңыз",
+"translation_ru": "легенда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "апа",
+"translation_ru": "сестра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "арық",
+"translation_ru": "худой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ас",
+"translation_ru": "голод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аса",
+"translation_ru": "очень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "астана",
+"translation_ru": "столица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ата",
+"translation_ru": "звать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ауа",
+"translation_ru": "воздух",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ауру",
+"translation_ru": "больной",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ауыр",
+"translation_ru": "тяжёлый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аша",
+"translation_ru": "открывай",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "баға",
+"translation_ru": "оценка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бағдар",
+"translation_ru": "направление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "баж",
+"translation_ru": "жадность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бай",
+"translation_ru": "богатый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "байланыс",
+"translation_ru": "связь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бақ",
+"translation_ru": "сад",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бақыт",
+"translation_ru": "счастье",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бала",
+"translation_ru": "ребёнок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бару",
+"translation_ru": "идти",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бас",
+"translation_ru": "голова",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бастау",
+"translation_ru": "начинать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "батыр",
+"translation_ru": "герой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "баян",
+"translation_ru": "рассказ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "белгі",
+"translation_ru": "признак",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "белгілі",
+"translation_ru": "известный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бет",
+"translation_ru": "лицо",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "би",
+"translation_ru": "танец",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "билеу",
+"translation_ru": "танцевать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "білім",
+"translation_ru": "знание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "білу",
+"translation_ru": "знать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бой",
+"translation_ru": "рост",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "болашақ",
+"translation_ru": "будущее",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бөлме",
+"translation_ru": "комната",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бөлім",
+"translation_ru": "отдел",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бурыл",
+"translation_ru": "поверни",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бүгінгі",
+"translation_ru": "сегодняшний",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бүгін",
+"translation_ru": "сегодня",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бүр",
+"translation_ru": "закрой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бүркіт",
+"translation_ru": "орёл",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ғалым",
+"translation_ru": "учёный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ғибрат",
+"translation_ru": "урок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дабыл",
+"translation_ru": "сигнал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дағды",
+"translation_ru": "навык",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дала",
+"translation_ru": "степь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "даму",
+"translation_ru": "развитие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дауыс",
+"translation_ru": "голос",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәлел",
+"translation_ru": "доказательство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәмек",
+"translation_ru": "значит",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәстүр",
+"translation_ru": "традиция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәуір",
+"translation_ru": "эпоха",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "деген",
+"translation_ru": "то есть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "деңгей",
+"translation_ru": "уровень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "деп",
+"translation_ru": "сказав",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ер",
+"translation_ru": "мужчина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ерекше",
+"translation_ru": "особый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ертең",
+"translation_ru": "завтра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ес",
+"translation_ru": "ум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "еске",
+"translation_ru": "память",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "есту",
+"translation_ru": "слышать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "етек",
+"translation_ru": "подол",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "етік",
+"translation_ru": "сапог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жағдай",
+"translation_ru": "ситуация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жазу",
+"translation_ru": "писать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жазушы",
+"translation_ru": "писатель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жай",
+"translation_ru": "лето",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жайлы",
+"translation_ru": "удобный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жақсы",
+"translation_ru": "хорошо",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жалақай",
+"translation_ru": "лентяй",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жалпы",
+"translation_ru": "общий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаңа",
+"translation_ru": "новый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаңбыр",
+"translation_ru": "дождь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жара",
+"translation_ru": "рана",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жарайды",
+"translation_ru": "подходит",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жарақат",
+"translation_ru": "рана",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаратпайды",
+"translation_ru": "не нравится",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаратпау",
+"translation_ru": "не нравиться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жарату",
+"translation_ru": "нравиться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жасау",
+"translation_ru": "делать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жат",
+"translation_ru": "чужой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жатқан",
+"translation_ru": "прошлый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жауап",
+"translation_ru": "ответ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жауапкер",
+"translation_ru": "ответственный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жауын",
+"translation_ru": "дождь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеке",
+"translation_ru": "личный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жем",
+"translation_ru": "корм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жер",
+"translation_ru": "земля",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жел",
+"translation_ru": "ветер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеңіл",
+"translation_ru": "лёгкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеңіс",
+"translation_ru": "победа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жидек",
+"translation_ru": "ягода",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жинақ",
+"translation_ru": "сборник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жиналыс",
+"translation_ru": "собрание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жиырма",
+"translation_ru": "двадцать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жоба",
+"translation_ru": "проект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жол",
+"translation_ru": "дорога",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жомарт",
+"translation_ru": "щедрый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жоспар",
+"translation_ru": "план",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жөн",
+"translation_ru": "сторона",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жұбай",
+"translation_ru": "супруг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жұмыс",
+"translation_ru": "работа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жұрт",
+"translation_ru": "народ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жылы",
+"translation_ru": "тёплый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жылыжай",
+"translation_ru": "теплица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жыныс",
+"translation_ru": "пол",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заман",
+"translation_ru": "время",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зат",
+"translation_ru": "предмет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зат есім",
+"translation_ru": "существительное",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зерек",
+"translation_ru": "ловкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зиялы",
+"translation_ru": "интеллигент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "идея",
+"translation_ru": "идея",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "имарат",
+"translation_ru": "здание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интернет",
+"translation_ru": "интернет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ишан",
+"translation_ru": "священник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "й",
+"translation_ru": "и",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кабинет",
+"translation_ru": "кабинет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кадам",
+"translation_ru": "шаг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "калың",
+"translation_ru": "калым",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кана",
+"translation_ru": "только бы",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "карта",
+"translation_ru": "карта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кезең",
+"translation_ru": "момент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "келісім",
+"translation_ru": "соглашение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "келісу",
+"translation_ru": "соглашаться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кем",
+"translation_ru": "мало",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кемпір",
+"translation_ru": "старуха",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кен",
+"translation_ru": "рудник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "керек",
+"translation_ru": "нужно",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кесем",
+"translation_ru": "красивый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кесер",
+"translation_ru": "резать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кесек",
+"translation_ru": "кусок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кесте",
+"translation_ru": "таблица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кеш",
+"translation_ru": "вечер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кеше",
+"translation_ru": "вчера",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "киім",
+"translation_ru": "одежда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кино",
+"translation_ru": "кино",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кім",
+"translation_ru": "кто",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кісі",
+"translation_ru": "человек",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кітап",
+"translation_ru": "книга",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кітапхана",
+"translation_ru": "библиотека",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көбейту",
+"translation_ru": "умножать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көгал",
+"translation_ru": "газон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көз",
+"translation_ru": "глаз",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көк",
+"translation_ru": "синий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көктем",
+"translation_ru": "весна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көл",
+"translation_ru": "озеро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көлік",
+"translation_ru": "транспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көмек",
+"translation_ru": "помощь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көп",
+"translation_ru": "много",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көпшілік",
+"translation_ru": "большинство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көркем",
+"translation_ru": "художественный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көркемдік",
+"translation_ru": "красота",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "көру",
+"translation_ru": "видеть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күй",
+"translation_ru": "состояние",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күн",
+"translation_ru": "день",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күнделік",
+"translation_ru": "ежедневный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күншығыш",
+"translation_ru": "восток",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күрделі",
+"translation_ru": "сложный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күш",
+"translation_ru": "сила",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қабылдау",
+"translation_ru": "принимать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қағаз",
+"translation_ru": "бумага",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қадам",
+"translation_ru": "шаг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қайда",
+"translation_ru": "где",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қайта",
+"translation_ru": "снова",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қайрат",
+"translation_ru": "сила духа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қала",
+"translation_ru": "город",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалай",
+"translation_ru": "как",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалам",
+"translation_ru": "ручка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалдыру",
+"translation_ru": "оставить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалқы",
+"translation_ru": "плыть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалып",
+"translation_ru": "форма",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қамыт",
+"translation_ru": "волнение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қаныш",
+"translation_ru": "радость",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қаңтар",
+"translation_ru": "январь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қарым",
+"translation_ru": "отношение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қарым-қатынас",
+"translation_ru": "отношение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қасаң",
+"translation_ru": "бровь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қасиет",
+"translation_ru": "свойство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қастан",
+"translation_ru": "темя",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қатар",
+"translation_ru": "ряд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қате",
+"translation_ru": "ошибка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қатыс",
+"translation_ru": "участие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қатысу",
+"translation_ru": "участвовать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қауіп",
+"translation_ru": "опасность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қауіпсіз",
+"translation_ru": "безопасный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қауым",
+"translation_ru": "общество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қашық",
+"translation_ru": "далеко",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қимыл",
+"translation_ru": "движение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қиын",
+"translation_ru": "трудный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қоғам",
+"translation_ru": "общество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қожайын",
+"translation_ru": "хозяин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қол",
+"translation_ru": "рука",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қонақ",
+"translation_ru": "гость",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қонақ үй",
+"translation_ru": "гостиница",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қора",
+"translation_ru": "загон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қорғаныш",
+"translation_ru": "защита",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қорқыныш",
+"translation_ru": "страх",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қорытынды",
+"translation_ru": "заключение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қоян",
+"translation_ru": "заяц",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құл",
+"translation_ru": "раб",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құмар",
+"translation_ru": "страстный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құн",
+"translation_ru": "ценность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құнды",
+"translation_ru": "ценный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құрмет",
+"translation_ru": "уважение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құрылым",
+"translation_ru": "структура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қыз",
+"translation_ru": "девушка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қызық",
+"translation_ru": "интересный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қызығу",
+"translation_ru": "интересоваться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қылым",
+"translation_ru": "ковёр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қылыш",
+"translation_ru": "меч",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қыс",
+"translation_ru": "зима",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қыстау",
+"translation_ru": "зимовать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қысым",
+"translation_ru": "давление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лақап",
+"translation_ru": "прозвище",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лаш",
+"translation_ru": "грязь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мағлұмат",
+"translation_ru": "информация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маза",
+"translation_ru": "настроение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мақал",
+"translation_ru": "пословица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мақсат",
+"translation_ru": "цель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мал",
+"translation_ru": "скот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маңыз",
+"translation_ru": "значение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маңызды",
+"translation_ru": "важный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "марапат",
+"translation_ru": "награда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "марғау",
+"translation_ru": "мягкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "материал",
+"translation_ru": "материал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "махаббат",
+"translation_ru": "любовь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "машық",
+"translation_ru": "привычка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мекен",
+"translation_ru": "родина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мектеп",
+"translation_ru": "школа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "меломан",
+"translation_ru": "меломан",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мен",
+"translation_ru": "я",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мең",
+"translation_ru": "родинка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "меңзей",
+"translation_ru": "указывать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мерген",
+"translation_ru": "охотник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "металл",
+"translation_ru": "металл",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "механика",
+"translation_ru": "механика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "міндет",
+"translation_ru": "обязанность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мола",
+"translation_ru": "скот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мұғалім",
+"translation_ru": "учитель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мүмкіндік",
+"translation_ru": "возможность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мүше",
+"translation_ru": "член",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мысық",
+"translation_ru": "кошка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "надан",
+"translation_ru": "невежда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "назар",
+"translation_ru": "внимание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "наным",
+"translation_ru": "вера",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нар",
+"translation_ru": "верблюд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "не",
+"translation_ru": "что",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "негіз",
+"translation_ru": "основа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "негізгі",
+"translation_ru": "основной",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "неке",
+"translation_ru": "брак",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "оған",
+"translation_ru": "ему",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ой",
+"translation_ru": "мысль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ойлау",
+"translation_ru": "думать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ойын",
+"translation_ru": "игра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ойыншық",
+"translation_ru": "игрушка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ол",
+"translation_ru": "он",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "олар",
+"translation_ru": "они",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "он",
+"translation_ru": "десять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "орам",
+"translation_ru": "улица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "орган",
+"translation_ru": "орган",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "орын",
+"translation_ru": "место",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "отыз",
+"translation_ru": "тридцать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өз",
+"translation_ru": "свой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзгеріс",
+"translation_ru": "изменение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзгерту",
+"translation_ru": "изменять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзі",
+"translation_ru": "сам",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзім",
+"translation_ru": "я сам",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзін",
+"translation_ru": "себя",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өкпе",
+"translation_ru": "лёгкое",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өлең",
+"translation_ru": "стих",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өлім",
+"translation_ru": "смерть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өмір",
+"translation_ru": "жизнь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өң",
+"translation_ru": "цвет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өндіріс",
+"translation_ru": "производство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өнер",
+"translation_ru": "искусство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өнім",
+"translation_ru": "продукт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өрекет",
+"translation_ru": "попытка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өріс",
+"translation_ru": "пространство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өсімдік",
+"translation_ru": "растение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өте",
+"translation_ru": "очень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өтеу",
+"translation_ru": "платить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пайда",
+"translation_ru": "польза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пайғамбар",
+"translation_ru": "пророк",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пакет",
+"translation_ru": "пакет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пари",
+"translation_ru": "пари",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "патша",
+"translation_ru": "царь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пәлсапа",
+"translation_ru": "философия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пәтер",
+"translation_ru": "квартира",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "район",
+"translation_ru": "район",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рақым",
+"translation_ru": "милосердие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ресторан",
+"translation_ru": "ресторан",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сабақ",
+"translation_ru": "урок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сабыр",
+"translation_ru": "терпение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сағат",
+"translation_ru": "час",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "садақ",
+"translation_ru": "лук",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сай",
+"translation_ru": "овраг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сайлау",
+"translation_ru": "выбирать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сайман",
+"translation_ru": "инструмент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сал",
+"translation_ru": "плот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сала",
+"translation_ru": "ветвь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "салауат",
+"translation_ru": "здоровье",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сана",
+"translation_ru": "сознание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "санау",
+"translation_ru": "считать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сапар",
+"translation_ru": "путь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сат",
+"translation_ru": "продавай",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сату",
+"translation_ru": "продавать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сауат",
+"translation_ru": "грамотность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сауда",
+"translation_ru": "торговля",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сауық",
+"translation_ru": "веселье",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сейсенбі",
+"translation_ru": "вторник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сейтін",
+"translation_ru": "любимый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "серік",
+"translation_ru": "товарищ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "серуен",
+"translation_ru": "прогулка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сила",
+"translation_ru": "сила",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сипат",
+"translation_ru": "характер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сирек",
+"translation_ru": "редко",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сияқты",
+"translation_ru": "подобный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "содан",
+"translation_ru": "с тех пор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "соз",
+"translation_ru": "слово",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сойле",
+"translation_ru": "говори",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сөз",
+"translation_ru": "слово",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сөйлеу",
+"translation_ru": "говорить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "су",
+"translation_ru": "вода",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "суа",
+"translation_ru": "болото",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сурет",
+"translation_ru": "картина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "суық",
+"translation_ru": "холодный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сын",
+"translation_ru": "характеристика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сыр",
+"translation_ru": "секрет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сырт",
+"translation_ru": "наружная сторона",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табан",
+"translation_ru": "подошва",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табиғат",
+"translation_ru": "природа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табыс",
+"translation_ru": "успех",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тағат",
+"translation_ru": "терпение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тағы",
+"translation_ru": "ещё",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таза",
+"translation_ru": "чистый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талап",
+"translation_ru": "требование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тамақ",
+"translation_ru": "еда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таң",
+"translation_ru": "рассвет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таңдау",
+"translation_ru": "выбор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таныс",
+"translation_ru": "знакомый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "танысу",
+"translation_ru": "знакомиться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тап",
+"translation_ru": "найди",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тапсырма",
+"translation_ru": "задание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тарау",
+"translation_ru": "глава",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тарих",
+"translation_ru": "история",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тау",
+"translation_ru": "гора",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тауар",
+"translation_ru": "товар",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таңертең",
+"translation_ru": "утром",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тек",
+"translation_ru": "только",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "телефон",
+"translation_ru": "телефон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тең",
+"translation_ru": "равный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "теңіз",
+"translation_ru": "море",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "терминология",
+"translation_ru": "терминология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тіл",
+"translation_ru": "язык",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тілек",
+"translation_ru": "желание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тініш",
+"translation_ru": "воробей",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "төбе",
+"translation_ru": "вершина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "төл",
+"translation_ru": "жеребёнок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тұлға",
+"translation_ru": "личность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тұрмыс",
+"translation_ru": "жизнь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тұрмыстас",
+"translation_ru": "сожитель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тұрғы",
+"translation_ru": "точка зрения",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түйе",
+"translation_ru": "верблюд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түн",
+"translation_ru": "ночь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түр",
+"translation_ru": "вид",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түрлі",
+"translation_ru": "разный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түсін",
+"translation_ru": "понять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түсіндіру",
+"translation_ru": "объяснять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түсінік",
+"translation_ru": "понимание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұғым",
+"translation_ru": "понятие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұдайы",
+"translation_ru": "постоянный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұй",
+"translation_ru": "дом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұйым",
+"translation_ru": "организация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұқсас",
+"translation_ru": "похожий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұл",
+"translation_ru": "сын",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұлт",
+"translation_ru": "нация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұлғайту",
+"translation_ru": "увеличивать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұмыт",
+"translation_ru": "забудь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұна",
+"translation_ru": "нравится",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұрпақ",
+"translation_ru": "поколение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұста",
+"translation_ru": "держи",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұстаз",
+"translation_ru": "учитель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұстам",
+"translation_ru": "выдержка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұсын",
+"translation_ru": "предложи",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұсыныс",
+"translation_ru": "предложение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұят",
+"translation_ru": "стыд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үй",
+"translation_ru": "дом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үйлену",
+"translation_ru": "жениться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үйрек",
+"translation_ru": "утка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үкімет",
+"translation_ru": "правительство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үлес",
+"translation_ru": "доля",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үміт",
+"translation_ru": "надежда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үндемес",
+"translation_ru": "молчаливый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үндес",
+"translation_ru": "звук",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үстел",
+"translation_ru": "стол",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "үшін",
+"translation_ru": "для",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығарма",
+"translation_ru": "произведение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығу",
+"translation_ru": "выходить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шыны",
+"translation_ru": "правда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шың",
+"translation_ru": "вершина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шырай",
+"translation_ru": "лицо",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шіркін",
+"translation_ru": "сустав",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шытырман",
+"translation_ru": "ёрш",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экология",
+"translation_ru": "экология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экономика",
+"translation_ru": "экономика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "электрон",
+"translation_ru": "электрон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "элемент",
+"translation_ru": "элемент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эссе",
+"translation_ru": "эссе",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "этика",
+"translation_ru": "этика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "юридика",
+"translation_ru": "юриспруденция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "яғни",
+"translation_ru": "то есть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "абонент",
+"translation_ru": "абонент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "автор",
+"translation_ru": "автор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адрес",
+"translation_ru": "адрес",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "академия",
+"translation_ru": "академия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "анимация",
+"translation_ru": "анимация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аптека",
+"translation_ru": "аптека",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "артист",
+"translation_ru": "артист",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аспирант",
+"translation_ru": "аспирант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аудит",
+"translation_ru": "аудит",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "банк",
+"translation_ru": "банк",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "банкомат",
+"translation_ru": "банкомат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бассейн",
+"translation_ru": "бассейн",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "билет",
+"translation_ru": "билет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "биология",
+"translation_ru": "биология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бюджет",
+"translation_ru": "бюджет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вагон",
+"translation_ru": "вагон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "валюта",
+"translation_ru": "валюта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ванна",
+"translation_ru": "ванна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вариант",
+"translation_ru": "вариант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ведомство",
+"translation_ru": "ведомство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вердикт",
+"translation_ru": "вердикт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "виза",
+"translation_ru": "виза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вирус",
+"translation_ru": "вирус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "галерея",
+"translation_ru": "галерея",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гарантия",
+"translation_ru": "гарантия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гарнизон",
+"translation_ru": "гарнизон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гид",
+"translation_ru": "гид",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гимназия",
+"translation_ru": "гимназия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гипотеза",
+"translation_ru": "гипотеза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "горизонт",
+"translation_ru": "горизонт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "грамматика",
+"translation_ru": "грамматика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "график",
+"translation_ru": "график",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гроссмейстер",
+"translation_ru": "гроссмейстер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "группа",
+"translation_ru": "группа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "демократия",
+"translation_ru": "демократия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диагноз",
+"translation_ru": "диагноз",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диалог",
+"translation_ru": "диалог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диван",
+"translation_ru": "диван",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диплом",
+"translation_ru": "диплом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "директор",
+"translation_ru": "директор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дискуссия",
+"translation_ru": "дискуссия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "договор",
+"translation_ru": "договор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "документ",
+"translation_ru": "документ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "досада",
+"translation_ru": "досада",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дубликат",
+"translation_ru": "дубликат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "евро",
+"translation_ru": "евро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "завод",
+"translation_ru": "завод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "задача",
+"translation_ru": "задача",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "закон",
+"translation_ru": "закон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зал",
+"translation_ru": "зал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заметка",
+"translation_ru": "заметка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зарплата",
+"translation_ru": "зарплата",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заявление",
+"translation_ru": "заявление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зона",
+"translation_ru": "зона",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "игра",
+"translation_ru": "игра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "идеал",
+"translation_ru": "идеал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "издание",
+"translation_ru": "издание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "имидж",
+"translation_ru": "имидж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "индустрия",
+"translation_ru": "индустрия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инстинкт",
+"translation_ru": "инстинкт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "институт",
+"translation_ru": "институт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инструкция",
+"translation_ru": "инструкция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интеллект",
+"translation_ru": "интеллект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интервью",
+"translation_ru": "интервью",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интернат",
+"translation_ru": "интернат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "информация",
+"translation_ru": "информация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ипотека",
+"translation_ru": "ипотека",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "источник",
+"translation_ru": "источник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кабинет",
+"translation_ru": "кабинет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кабинет",
+"translation_ru": "офис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "календарь",
+"translation_ru": "календарь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кампания",
+"translation_ru": "кампания",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кандидат",
+"translation_ru": "кандидат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "капитал",
+"translation_ru": "капитал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "капсула",
+"translation_ru": "капсула",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "карантин",
+"translation_ru": "карантин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "касса",
+"translation_ru": "касса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "категория",
+"translation_ru": "категория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "квартира",
+"translation_ru": "квартира",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "километр",
+"translation_ru": "километр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "класс",
+"translation_ru": "класс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "клуб",
+"translation_ru": "клуб",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кодекс",
+"translation_ru": "кодекс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "колледж",
+"translation_ru": "колледж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "команда",
+"translation_ru": "команда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "командир",
+"translation_ru": "командир",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "командировка",
+"translation_ru": "командировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комбинат",
+"translation_ru": "комбинат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комитет",
+"translation_ru": "комитет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "коммерция",
+"translation_ru": "коммерция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "коммуникация",
+"translation_ru": "коммуникация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компания",
+"translation_ru": "компания",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компенсация",
+"translation_ru": "компенсация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комплекс",
+"translation_ru": "комплекс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компонент",
+"translation_ru": "компонент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компромисс",
+"translation_ru": "компромисс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конверт",
+"translation_ru": "конверт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конвертация",
+"translation_ru": "конвертация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конгресс",
+"translation_ru": "конгресс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конкурс",
+"translation_ru": "конкурс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "консультация",
+"translation_ru": "консультация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контакт",
+"translation_ru": "контакт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контекст",
+"translation_ru": "контекст",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контракт",
+"translation_ru": "контракт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контроль",
+"translation_ru": "контроль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конференция",
+"translation_ru": "конференция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конфликт",
+"translation_ru": "конфликт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "концепция",
+"translation_ru": "концепция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "координата",
+"translation_ru": "координата",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "копейка",
+"translation_ru": "копейка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "корпус",
+"translation_ru": "корпус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "корреспондент",
+"translation_ru": "корреспондент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "космос",
+"translation_ru": "космос",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "костюм",
+"translation_ru": "костюм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кофе",
+"translation_ru": "кофе",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кредит",
+"translation_ru": "кредит",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кризис",
+"translation_ru": "кризис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "критерий",
+"translation_ru": "критерий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кристалл",
+"translation_ru": "кристалл",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "культура",
+"translation_ru": "культура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "курс",
+"translation_ru": "курс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "курьер",
+"translation_ru": "курьер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лаборатория",
+"translation_ru": "лаборатория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ланч",
+"translation_ru": "ланч",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "легенда",
+"translation_ru": "легенда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лекция",
+"translation_ru": "лекция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лидер",
+"translation_ru": "лидер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "литература",
+"translation_ru": "литература",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лифт",
+"translation_ru": "лифт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лицей",
+"translation_ru": "лицей",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магазин",
+"translation_ru": "магазин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магистр",
+"translation_ru": "магистр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магистратура",
+"translation_ru": "магистратура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "майор",
+"translation_ru": "майор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "максимум",
+"translation_ru": "максимум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маркетинг",
+"translation_ru": "маркетинг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "масса",
+"translation_ru": "масса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "материал",
+"translation_ru": "материал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "математика",
+"translation_ru": "математика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "медицина",
+"translation_ru": "медицина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мелодия",
+"translation_ru": "мелодия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "менеджер",
+"translation_ru": "менеджер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "меню",
+"translation_ru": "меню",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "метод",
+"translation_ru": "метод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "метро",
+"translation_ru": "метро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миграция",
+"translation_ru": "миграция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миллион",
+"translation_ru": "миллион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "минимум",
+"translation_ru": "минимум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миссия",
+"translation_ru": "миссия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "модель",
+"translation_ru": "модель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "модуль",
+"translation_ru": "модуль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "момент",
+"translation_ru": "момент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монолог",
+"translation_ru": "монолог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монополия",
+"translation_ru": "монополия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монумент",
+"translation_ru": "монумент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мотив",
+"translation_ru": "мотив",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мотор",
+"translation_ru": "мотор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "музыка",
+"translation_ru": "музыка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мультимедиа",
+"translation_ru": "мультимедиа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "навигатор",
+"translation_ru": "навигатор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "налог",
+"translation_ru": "налог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нация",
+"translation_ru": "нация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нефть",
+"translation_ru": "нефть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "новость",
+"translation_ru": "новость",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "номинация",
+"translation_ru": "номинация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "номер",
+"translation_ru": "номер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "норма",
+"translation_ru": "норма",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "объект",
+"translation_ru": "объект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "округ",
+"translation_ru": "округ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "операция",
+"translation_ru": "операция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "опция",
+"translation_ru": "опция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "организация",
+"translation_ru": "организация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "оригинал",
+"translation_ru": "оригинал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пакет",
+"translation_ru": "пакет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "памятник",
+"translation_ru": "памятник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пансионат",
+"translation_ru": "пансионат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "параграф",
+"translation_ru": "параграф",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "парк",
+"translation_ru": "парк",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "партнер",
+"translation_ru": "партнёр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "паспорт",
+"translation_ru": "паспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пациент",
+"translation_ru": "пациент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пенсия",
+"translation_ru": "пенсия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "период",
+"translation_ru": "период",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "песня",
+"translation_ru": "песня",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пилот",
+"translation_ru": "пилот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "платформа",
+"translation_ru": "платформа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "площадь",
+"translation_ru": "площадь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поведение",
+"translation_ru": "поведение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поверхность",
+"translation_ru": "поверхность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "подход",
+"translation_ru": "подход",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поезд",
+"translation_ru": "поезд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "политика",
+"translation_ru": "политика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поликлиника",
+"translation_ru": "поликлиника",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "полюс",
+"translation_ru": "полюс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "портал",
+"translation_ru": "портал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "портфель",
+"translation_ru": "портфель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "посольство",
+"translation_ru": "посольство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пост",
+"translation_ru": "пост",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "почта",
+"translation_ru": "почта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "практика",
+"translation_ru": "практика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "президент",
+"translation_ru": "президент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "премия",
+"translation_ru": "премия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "препарат",
+"translation_ru": "препарат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пресса",
+"translation_ru": "пресса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "прибор",
+"translation_ru": "прибор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "принцип",
+"translation_ru": "принцип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "приоритет",
+"translation_ru": "приоритет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "программа",
+"translation_ru": "программа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "проект",
+"translation_ru": "проект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "процент",
+"translation_ru": "процент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "процесс",
+"translation_ru": "процесс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "психология",
+"translation_ru": "психология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "радио",
+"translation_ru": "радио",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "район",
+"translation_ru": "район",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ракета",
+"translation_ru": "ракета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "расписание",
+"translation_ru": "расписание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "режим",
+"translation_ru": "режим",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "резиденция",
+"translation_ru": "резиденция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рейс",
+"translation_ru": "рейс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рейтинг",
+"translation_ru": "рейтинг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рекомендация",
+"translation_ru": "рекомендация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "реконструкция",
+"translation_ru": "реконструкция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рекорд",
+"translation_ru": "рекорд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "религия",
+"translation_ru": "религия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "репетитор",
+"translation_ru": "репетитор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "репутация",
+"translation_ru": "репутация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ресурс",
+"translation_ru": "ресурс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ресторан",
+"translation_ru": "ресторан",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "реформа",
+"translation_ru": "реформа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "регион",
+"translation_ru": "регион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ритм",
+"translation_ru": "ритм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "роль",
+"translation_ru": "роль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "роман",
+"translation_ru": "роман",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рубль",
+"translation_ru": "рубль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "салон",
+"translation_ru": "салон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "санаторий",
+"translation_ru": "санаторий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "свобода",
+"translation_ru": "свобода",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сезон",
+"translation_ru": "сезон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "секретарь",
+"translation_ru": "секретарь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "семестр",
+"translation_ru": "семестр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "семинар",
+"translation_ru": "семинар",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сертификат",
+"translation_ru": "сертификат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "система",
+"translation_ru": "система",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ситуация",
+"translation_ru": "ситуация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "совет",
+"translation_ru": "совет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "создание",
+"translation_ru": "создание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спектакль",
+"translation_ru": "спектакль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "список",
+"translation_ru": "список",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спор",
+"translation_ru": "спор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спорт",
+"translation_ru": "спорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стадион",
+"translation_ru": "стадион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стаж",
+"translation_ru": "стаж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "статус",
+"translation_ru": "статус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стенд",
+"translation_ru": "стенд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стереотип",
+"translation_ru": "стереотип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стипендия",
+"translation_ru": "стипендия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стратегия",
+"translation_ru": "стратегия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "структура",
+"translation_ru": "структура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сцена",
+"translation_ru": "сцена",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сценарий",
+"translation_ru": "сценарий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табло",
+"translation_ru": "табло",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таблица",
+"translation_ru": "таблица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талант",
+"translation_ru": "талант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таможня",
+"translation_ru": "таможня",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "театр",
+"translation_ru": "театр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "телевидение",
+"translation_ru": "телевидение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "телефон",
+"translation_ru": "телефон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тема",
+"translation_ru": "тема",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "температура",
+"translation_ru": "температура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тенденция",
+"translation_ru": "тенденция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "теория",
+"translation_ru": "теория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "термин",
+"translation_ru": "термин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "территория",
+"translation_ru": "территория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "техникум",
+"translation_ru": "техникум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "технология",
+"translation_ru": "технология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тип",
+"translation_ru": "тип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тонна",
+"translation_ru": "тонна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "транспорт",
+"translation_ru": "транспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "требование",
+"translation_ru": "требование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тренер",
+"translation_ru": "тренер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тренировка",
+"translation_ru": "тренировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "труба",
+"translation_ru": "труба",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "турнир",
+"translation_ru": "турнир",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "университет",
+"translation_ru": "университет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "уровень",
+"translation_ru": "уровень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "устав",
+"translation_ru": "устав",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "факт",
+"translation_ru": "факт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "факультет",
+"translation_ru": "факультет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "февраль",
+"translation_ru": "февраль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "физика",
+"translation_ru": "физика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "фильм",
+"translation_ru": "фильм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "финансы",
+"translation_ru": "финансы",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "формат",
+"translation_ru": "формат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "формула",
+"translation_ru": "формула",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "фото",
+"translation_ru": "фото",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "функция",
+"translation_ru": "функция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "характер",
+"translation_ru": "характер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "химия",
+"translation_ru": "химия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "хор",
+"translation_ru": "хор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "хозяйство",
+"translation_ru": "хозяйство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "центр",
+"translation_ru": "центр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "цифра",
+"translation_ru": "цифра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "человек",
+"translation_ru": "человек",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "чемпион",
+"translation_ru": "чемпион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шахматы",
+"translation_ru": "шахматы",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "школа",
+"translation_ru": "школа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экзамен",
+"translation_ru": "экзамен",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экземпляр",
+"translation_ru": "экземпляр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эксперт",
+"translation_ru": "эксперт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эксперимент",
+"translation_ru": "эксперимент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экспорт",
+"translation_ru": "экспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "электроника",
+"translation_ru": "электроника",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "элемент",
+"translation_ru": "элемент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эмоция",
+"translation_ru": "эмоция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "энергия",
+"translation_ru": "энергия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "юрист",
+"translation_ru": "юрист",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "язык",
+"translation_ru": "язык",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "январь",
+"translation_ru": "январь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ата-ана",
+"translation_ru": "родители",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бауырлас",
+"translation_ru": "братский",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "байланыс",
+"translation_ru": "связь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "демалыс",
+"translation_ru": "отдых",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаттығу",
+"translation_ru": "тренировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жазушы",
+"translation_ru": "писатель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жетекші",
+"translation_ru": "руководитель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жүйе",
+"translation_ru": "система",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "идея",
+"translation_ru": "идея",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "категория",
+"translation_ru": "категория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кеңесші",
+"translation_ru": "консультант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "күнделік",
+"translation_ru": "дневник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қабылдау",
+"translation_ru": "принятие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қызмет",
+"translation_ru": "служба",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мекен",
+"translation_ru": "родина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мәдени",
+"translation_ru": "культурный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нысан",
+"translation_ru": "объект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өлшем",
+"translation_ru": "размер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сайыс",
+"translation_ru": "соревнование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сапа",
+"translation_ru": "качество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сезім",
+"translation_ru": "ощущение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тәсіл",
+"translation_ru": "способ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұғым",
+"translation_ru": "понятие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығармашылық",
+"translation_ru": "творчество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ашу",
+"translation_ru": "открывать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жабу",
+"translation_ru": "закрывать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қосу",
+"translation_ru": "добавлять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "алып тастау",
+"translation_ru": "убрать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өзгерту",
+"translation_ru": "изменять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қайталау",
+"translation_ru": "повторять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұмыту",
+"translation_ru": "забывать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "есте сақтау",
+"translation_ru": "запомнить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сұрау",
+"translation_ru": "спрашивать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жауап беру",
+"translation_ru": "отвечать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "түсіндіру",
+"translation_ru": "объяснять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәлелдеу",
+"translation_ru": "доказывать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мақұлдау",
+"translation_ru": "одобрять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қарсы келу",
+"translation_ru": "отказываться",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұқсату",
+"translation_ru": "сравнивать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ажырату",
+"translation_ru": "различать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қорыту",
+"translation_ru": "обобщать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талдау",
+"translation_ru": "анализировать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бағалау",
+"translation_ru": "оценивать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығару",
+"translation_ru": "выводить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құру",
+"translation_ru": "строить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жою",
+"translation_ru": "уничтожать",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сақтау",
+"translation_ru": "сохранять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаңарту",
+"translation_ru": "обновлять",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "абырой",
+"translation_ru": "авторитет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ағарту",
+"translation_ru": "просвещение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адалдық",
+"translation_ru": "честность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "азамат",
+"translation_ru": "гражданин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "айбар",
+"translation_ru": "влияние",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ақыл",
+"translation_ru": "ум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аң",
+"translation_ru": "сознание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аңғартатын",
+"translation_ru": "поучительный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "асу",
+"translation_ru": "перевал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аудан",
+"translation_ru": "район",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бейне",
+"translation_ru": "образ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "білімпаз",
+"translation_ru": "учёный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бояу",
+"translation_ru": "краска",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бөгет",
+"translation_ru": "плотина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ғалам",
+"translation_ru": "вселенная",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ғылым",
+"translation_ru": "наука",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәйек",
+"translation_ru": "пример",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәлел",
+"translation_ru": "доказательство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жар",
+"translation_ru": "обрыв",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаратылыс",
+"translation_ru": "природа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жер-су",
+"translation_ru": "география",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жетістік",
+"translation_ru": "достижение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жобалау",
+"translation_ru": "проектирование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жүйелеу",
+"translation_ru": "систематизация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заң",
+"translation_ru": "закон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зерттеу",
+"translation_ru": "исследование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ибадат",
+"translation_ru": "поклонение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интеллект",
+"translation_ru": "интеллект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кабинет",
+"translation_ru": "кабинет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қазына",
+"translation_ru": "сокровищница",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалыптасу",
+"translation_ru": "формирование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қауымдастық",
+"translation_ru": "сообщество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құндылық",
+"translation_ru": "ценность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құрылымдау",
+"translation_ru": "структурирование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мақсат",
+"translation_ru": "цель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мамандандыру",
+"translation_ru": "специализация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мәтіндеме",
+"translation_ru": "формулировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нәтиже",
+"translation_ru": "результат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "өлшеу",
+"translation_ru": "измерение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сараптама",
+"translation_ru": "экспертиза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сабақтастық",
+"translation_ru": "преемственность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сана",
+"translation_ru": "сознание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сұраным",
+"translation_ru": "требование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талдау",
+"translation_ru": "анализ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таным",
+"translation_ru": "познание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тәжірибе",
+"translation_ru": "опыт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тәрбие",
+"translation_ru": "воспитание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұғым",
+"translation_ru": "понятие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұстаным",
+"translation_ru": "позиция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығармашылық",
+"translation_ru": "творчество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "этика",
+"translation_ru": "этика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адай",
+"translation_ru": "прямой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адал",
+"translation_ru": "честный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ажарлы",
+"translation_ru": "светлый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ақылды",
+"translation_ru": "умный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аса",
+"translation_ru": "особый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "әдемі",
+"translation_ru": "красивый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "әсерлі",
+"translation_ru": "впечатляющий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бай",
+"translation_ru": "богатый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бастапқы",
+"translation_ru": "начальный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәлелді",
+"translation_ru": "доказательный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жаттыққан",
+"translation_ru": "опытный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жүйелі",
+"translation_ru": "систематический",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зығыр",
+"translation_ru": "внимательный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "икемді",
+"translation_ru": "гибкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қажет",
+"translation_ru": "необходимый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қалыпты",
+"translation_ru": "нормальный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маңызды",
+"translation_ru": "важный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нақты",
+"translation_ru": "конкретный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нәтижелі",
+"translation_ru": "результативный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "оңай",
+"translation_ru": "лёгкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сапалы",
+"translation_ru": "качественный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тәуелсіз",
+"translation_ru": "независимый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұтымды",
+"translation_ru": "целесообразный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шынайы",
+"translation_ru": "истинный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аш",
+"translation_ru": "голод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "асқазан",
+"translation_ru": "желудок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бал",
+"translation_ru": "мёд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бұршақ",
+"translation_ru": "горох",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гүл",
+"translation_ru": "цветок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеміс",
+"translation_ru": "фрукт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жүгері",
+"translation_ru": "кукуруза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ит",
+"translation_ru": "собака",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қаз",
+"translation_ru": "гусь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қоңыр",
+"translation_ru": "коричневый",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құс",
+"translation_ru": "птица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "май",
+"translation_ru": "жир",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мысық",
+"translation_ru": "кошка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сірке",
+"translation_ru": "уксус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сусын",
+"translation_ru": "напиток",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тауық",
+"translation_ru": "курица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шай",
+"translation_ru": "чай",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шырша",
+"translation_ru": "ёлка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығыс",
+"translation_ru": "восток",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "батыс",
+"translation_ru": "запад",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адамзат",
+"translation_ru": "человечество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "арна",
+"translation_ru": "канал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "артықшылық",
+"translation_ru": "преимущество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бейімделу",
+"translation_ru": "адаптация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бейтарап",
+"translation_ru": "нейтральный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бітіру",
+"translation_ru": "завершить",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бүкіл",
+"translation_ru": "весь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ғаламшар",
+"translation_ru": "планета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дәстүрлі",
+"translation_ru": "традиционный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ерекшелік",
+"translation_ru": "особенность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеке",
+"translation_ru": "частный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жеке меншік",
+"translation_ru": "частная собственность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жуық",
+"translation_ru": "близкий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инновация",
+"translation_ru": "инновация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "качественный",
+"translation_ru": "качественный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қамту",
+"translation_ru": "охват",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "қарқын",
+"translation_ru": "темп",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "құжат",
+"translation_ru": "документ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мекенжай",
+"translation_ru": "адрес",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "міндетті",
+"translation_ru": "обязательный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мүше",
+"translation_ru": "член",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нұсқау",
+"translation_ru": "инструкция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сала",
+"translation_ru": "отрасль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "салыстырмалы",
+"translation_ru": "сравнительный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сапа",
+"translation_ru": "качество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сауалнама",
+"translation_ru": "анкета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сыйлық",
+"translation_ru": "награда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табыс",
+"translation_ru": "доход",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талқылау",
+"translation_ru": "обсуждение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тәуекел",
+"translation_ru": "риск",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұйымдастыру",
+"translation_ru": "организация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ұқсастық",
+"translation_ru": "сходство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шығарма",
+"translation_ru": "произведение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эмпатия",
+"translation_ru": "эмпатия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "абзац",
+"translation_ru": "абзац",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "авария",
+"translation_ru": "авария",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "август",
+"translation_ru": "август",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "автор",
+"translation_ru": "автор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "адрес",
+"translation_ru": "адрес",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "академия",
+"translation_ru": "академия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "акт",
+"translation_ru": "акт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "актер",
+"translation_ru": "актер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "апрель",
+"translation_ru": "апрель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "армия",
+"translation_ru": "армия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аудитория",
+"translation_ru": "аудитория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "багаж",
+"translation_ru": "багаж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "база",
+"translation_ru": "база",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "балкон",
+"translation_ru": "балкон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "барьер",
+"translation_ru": "барьер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "беседа",
+"translation_ru": "беседа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "блок",
+"translation_ru": "блок",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бюро",
+"translation_ru": "бюро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вариант",
+"translation_ru": "вариант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вектор",
+"translation_ru": "вектор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "версия",
+"translation_ru": "версия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ветеран",
+"translation_ru": "ветеран",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "взаимодействие",
+"translation_ru": "взаимодействие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "видео",
+"translation_ru": "видео",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "виза",
+"translation_ru": "виза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "возможность",
+"translation_ru": "возможность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "возраст",
+"translation_ru": "возраст",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вокзал",
+"translation_ru": "вокзал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "волна",
+"translation_ru": "волна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "воскресенье",
+"translation_ru": "воскресенье",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "встреча",
+"translation_ru": "встреча",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "выбор",
+"translation_ru": "выбор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вывод",
+"translation_ru": "вывод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "выставка",
+"translation_ru": "выставка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "газета",
+"translation_ru": "газета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "генерал",
+"translation_ru": "генерал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гипотеза",
+"translation_ru": "гипотеза",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "город",
+"translation_ru": "город",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гостиница",
+"translation_ru": "гостиница",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гражданство",
+"translation_ru": "гражданство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "грипп",
+"translation_ru": "грипп",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "группа",
+"translation_ru": "группа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "давление",
+"translation_ru": "давление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "давность",
+"translation_ru": "давность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "даль",
+"translation_ru": "даль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дамба",
+"translation_ru": "дамба",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "данные",
+"translation_ru": "данные",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "движение",
+"translation_ru": "движение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "декабрь",
+"translation_ru": "декабрь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дела",
+"translation_ru": "дела",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "демонстрация",
+"translation_ru": "демонстрация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "департамент",
+"translation_ru": "департамент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дефект",
+"translation_ru": "дефект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диапазон",
+"translation_ru": "диапазон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диета",
+"translation_ru": "диета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диск",
+"translation_ru": "диск",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дискуссия",
+"translation_ru": "дискуссия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "длина",
+"translation_ru": "длина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "договор",
+"translation_ru": "договор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дождь",
+"translation_ru": "дождь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "документ",
+"translation_ru": "документ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "должность",
+"translation_ru": "должность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "доля",
+"translation_ru": "доля",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дом",
+"translation_ru": "дом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "доска",
+"translation_ru": "доска",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "доступ",
+"translation_ru": "доступ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дума",
+"translation_ru": "дума",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дух",
+"translation_ru": "дух",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "евро",
+"translation_ru": "евро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "единство",
+"translation_ru": "единство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "жанр",
+"translation_ru": "жанр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "журнал",
+"translation_ru": "журнал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "завод",
+"translation_ru": "завод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "задача",
+"translation_ru": "задача",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "закон",
+"translation_ru": "закон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зал",
+"translation_ru": "зал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заметка",
+"translation_ru": "заметка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "запас",
+"translation_ru": "запас",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "запрос",
+"translation_ru": "запрос",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заряд",
+"translation_ru": "заряд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "заявление",
+"translation_ru": "заявление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "здание",
+"translation_ru": "здание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "здоровье",
+"translation_ru": "здоровье",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "знак",
+"translation_ru": "знак",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "знание",
+"translation_ru": "знание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "игра",
+"translation_ru": "игра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "идея",
+"translation_ru": "идея",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "изменение",
+"translation_ru": "изменение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "изучение",
+"translation_ru": "изучение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "имидж",
+"translation_ru": "имидж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инвалид",
+"translation_ru": "инвалид",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "индекс",
+"translation_ru": "индекс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "индустрия",
+"translation_ru": "индустрия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инженер",
+"translation_ru": "инженер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "институт",
+"translation_ru": "институт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инструкция",
+"translation_ru": "инструкция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интерес",
+"translation_ru": "интерес",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интернет",
+"translation_ru": "интернет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интерпретация",
+"translation_ru": "интерпретация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интерьер",
+"translation_ru": "интерьер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "информация",
+"translation_ru": "информация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ипотека",
+"translation_ru": "ипотека",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "история",
+"translation_ru": "история",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "июль",
+"translation_ru": "июль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "июнь",
+"translation_ru": "июнь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кабинет",
+"translation_ru": "кабинет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кафе",
+"translation_ru": "кафе",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "квартал",
+"translation_ru": "квартал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кило",
+"translation_ru": "кило",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кино",
+"translation_ru": "кино",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "класс",
+"translation_ru": "класс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "клиент",
+"translation_ru": "клиент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "клуб",
+"translation_ru": "клуб",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "код",
+"translation_ru": "код",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "коллега",
+"translation_ru": "коллега",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "колледж",
+"translation_ru": "колледж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "команда",
+"translation_ru": "команда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "командир",
+"translation_ru": "командир",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комитет",
+"translation_ru": "комитет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "коммуникация",
+"translation_ru": "коммуникация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компания",
+"translation_ru": "компания",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компонент",
+"translation_ru": "компонент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компромисс",
+"translation_ru": "компромисс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конец",
+"translation_ru": "конец",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конкурс",
+"translation_ru": "конкурс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контакт",
+"translation_ru": "контакт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контекст",
+"translation_ru": "контекст",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контракт",
+"translation_ru": "контракт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "контроль",
+"translation_ru": "контроль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конференция",
+"translation_ru": "конференция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конфликт",
+"translation_ru": "конфликт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "концепция",
+"translation_ru": "концепция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "координатор",
+"translation_ru": "координатор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "корень",
+"translation_ru": "корень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "корпус",
+"translation_ru": "корпус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "космос",
+"translation_ru": "космос",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "костюм",
+"translation_ru": "костюм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "край",
+"translation_ru": "край",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кредит",
+"translation_ru": "кредит",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "критерий",
+"translation_ru": "критерий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "курс",
+"translation_ru": "курс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лаборатория",
+"translation_ru": "лаборатория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лекция",
+"translation_ru": "лекция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лидер",
+"translation_ru": "лидер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "линия",
+"translation_ru": "линия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "литература",
+"translation_ru": "литература",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лицо",
+"translation_ru": "лицо",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магазин",
+"translation_ru": "магазин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "май",
+"translation_ru": "май",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мастер",
+"translation_ru": "мастер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "материал",
+"translation_ru": "материал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "машина",
+"translation_ru": "машина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "медаль",
+"translation_ru": "медаль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "медицина",
+"translation_ru": "медицина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мелодия",
+"translation_ru": "мелодия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "менеджер",
+"translation_ru": "менеджер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "меню",
+"translation_ru": "меню",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "метод",
+"translation_ru": "метод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "метро",
+"translation_ru": "метро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "механизм",
+"translation_ru": "механизм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миллион",
+"translation_ru": "миллион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "минимальный",
+"translation_ru": "минимальный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миссия",
+"translation_ru": "миссия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "модель",
+"translation_ru": "модель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "момент",
+"translation_ru": "момент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монополия",
+"translation_ru": "монополия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мониторинг",
+"translation_ru": "мониторинг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мост",
+"translation_ru": "мост",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мотив",
+"translation_ru": "мотив",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "музей",
+"translation_ru": "музей",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "музыка",
+"translation_ru": "музыка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "набор",
+"translation_ru": "набор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "навык",
+"translation_ru": "навык",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нагрузка",
+"translation_ru": "нагрузка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "надежда",
+"translation_ru": "надежда",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "название",
+"translation_ru": "название",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "направление",
+"translation_ru": "направление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "народ",
+"translation_ru": "народ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "население",
+"translation_ru": "население",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "настроение",
+"translation_ru": "настроение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "натура",
+"translation_ru": "натура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "наука",
+"translation_ru": "наука",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "начало",
+"translation_ru": "начало",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "неделя",
+"translation_ru": "неделя",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нефть",
+"translation_ru": "нефть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ноябрь",
+"translation_ru": "ноябрь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "номер",
+"translation_ru": "номер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "норма",
+"translation_ru": "норма",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ночь",
+"translation_ru": "ночь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "обеспечение",
+"translation_ru": "обеспечение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "образ",
+"translation_ru": "образ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "образование",
+"translation_ru": "образование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "обращение",
+"translation_ru": "обращение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "объект",
+"translation_ru": "объект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "обязательство",
+"translation_ru": "обязательство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "октябрь",
+"translation_ru": "октябрь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "операция",
+"translation_ru": "операция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "опыт",
+"translation_ru": "опыт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "организация",
+"translation_ru": "организация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "оригинал",
+"translation_ru": "оригинал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "офис",
+"translation_ru": "офис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пакет",
+"translation_ru": "пакет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "памятник",
+"translation_ru": "памятник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "память",
+"translation_ru": "память",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "параметр",
+"translation_ru": "параметр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "парк",
+"translation_ru": "парк",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "партнер",
+"translation_ru": "партнер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "паспорт",
+"translation_ru": "паспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "перевод",
+"translation_ru": "перевод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "переговоры",
+"translation_ru": "переговоры",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "период",
+"translation_ru": "период",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "план",
+"translation_ru": "план",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "платеж",
+"translation_ru": "платеж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "платформа",
+"translation_ru": "платформа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "площадь",
+"translation_ru": "площадь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "повод",
+"translation_ru": "повод",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поведение",
+"translation_ru": "поведение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поддержка",
+"translation_ru": "поддержка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "подход",
+"translation_ru": "подход",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поезд",
+"translation_ru": "поезд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "позиция",
+"translation_ru": "позиция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "политика",
+"translation_ru": "политика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "полис",
+"translation_ru": "полис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "положение",
+"translation_ru": "положение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "портрет",
+"translation_ru": "портрет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "портфель",
+"translation_ru": "портфель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "последствие",
+"translation_ru": "последствие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поставка",
+"translation_ru": "поставка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "постель",
+"translation_ru": "постель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "постоянный",
+"translation_ru": "постоянный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "потенциал",
+"translation_ru": "потенциал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "праздник",
+"translation_ru": "праздник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "предложение",
+"translation_ru": "предложение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "предмет",
+"translation_ru": "предмет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "предприятие",
+"translation_ru": "предприятие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "представитель",
+"translation_ru": "представитель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "представление",
+"translation_ru": "представление",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "президент",
+"translation_ru": "президент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "преимущество",
+"translation_ru": "преимущество",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "премия",
+"translation_ru": "премия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "прибыль",
+"translation_ru": "прибыль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "принцип",
+"translation_ru": "принцип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "приоритет",
+"translation_ru": "приоритет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "причина",
+"translation_ru": "причина",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "проблема",
+"translation_ru": "проблема",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "продукт",
+"translation_ru": "продукт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "программа",
+"translation_ru": "программа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "прогресс",
+"translation_ru": "прогресс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "проект",
+"translation_ru": "проект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "произведение",
+"translation_ru": "произведение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "прокурор",
+"translation_ru": "прокурор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пропорция",
+"translation_ru": "пропорция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "проспект",
+"translation_ru": "проспект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "противник",
+"translation_ru": "противник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "профессор",
+"translation_ru": "профессор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "процент",
+"translation_ru": "процент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "процесс",
+"translation_ru": "процесс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пункт",
+"translation_ru": "пункт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "путь",
+"translation_ru": "путь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "работа",
+"translation_ru": "работа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "радио",
+"translation_ru": "радио",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "район",
+"translation_ru": "район",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "развитие",
+"translation_ru": "развитие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "размер",
+"translation_ru": "размер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "реализация",
+"translation_ru": "реализация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "режим",
+"translation_ru": "режим",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "результат",
+"translation_ru": "результат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рейс",
+"translation_ru": "рейс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рейтинг",
+"translation_ru": "рейтинг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рекомендация",
+"translation_ru": "рекомендация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "реконструкция",
+"translation_ru": "реконструкция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рекорд",
+"translation_ru": "рекорд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "религия",
+"translation_ru": "религия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "репутация",
+"translation_ru": "репутация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ресурс",
+"translation_ru": "ресурс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ресторан",
+"translation_ru": "ресторан",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "реформа",
+"translation_ru": "реформа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "регион",
+"translation_ru": "регион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "роль",
+"translation_ru": "роль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "рубль",
+"translation_ru": "рубль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "самолет",
+"translation_ru": "самолет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "санаторий",
+"translation_ru": "санаторий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "свобода",
+"translation_ru": "свобода",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "связь",
+"translation_ru": "связь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "свидетель",
+"translation_ru": "свидетель",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сезон",
+"translation_ru": "сезон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "секретарь",
+"translation_ru": "секретарь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "семинар",
+"translation_ru": "семинар",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сервис",
+"translation_ru": "сервис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "серия",
+"translation_ru": "серия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сигнал",
+"translation_ru": "сигнал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "система",
+"translation_ru": "система",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ситуация",
+"translation_ru": "ситуация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "словарь",
+"translation_ru": "словарь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "слой",
+"translation_ru": "слой",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "следствие",
+"translation_ru": "следствие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "смена",
+"translation_ru": "смена",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "смета",
+"translation_ru": "смета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "собрание",
+"translation_ru": "собрание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "совет",
+"translation_ru": "совет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "соглашение",
+"translation_ru": "соглашение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "содержание",
+"translation_ru": "содержание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "создание",
+"translation_ru": "создание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "состав",
+"translation_ru": "состав",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спектакль",
+"translation_ru": "спектакль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "список",
+"translation_ru": "список",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спорт",
+"translation_ru": "спорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стадион",
+"translation_ru": "стадион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стандарт",
+"translation_ru": "стандарт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "статус",
+"translation_ru": "статус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стратегия",
+"translation_ru": "стратегия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "структура",
+"translation_ru": "структура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "студент",
+"translation_ru": "студент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сфера",
+"translation_ru": "сфера",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "схема",
+"translation_ru": "схема",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сцена",
+"translation_ru": "сцена",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сценарий",
+"translation_ru": "сценарий",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "табло",
+"translation_ru": "табло",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таблица",
+"translation_ru": "таблица",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "талант",
+"translation_ru": "талант",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "таможня",
+"translation_ru": "таможня",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "театр",
+"translation_ru": "театр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "текст",
+"translation_ru": "текст",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "телевидение",
+"translation_ru": "телевидение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "телефон",
+"translation_ru": "телефон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тема",
+"translation_ru": "тема",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "температура",
+"translation_ru": "температура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "теория",
+"translation_ru": "теория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "термин",
+"translation_ru": "термин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "территория",
+"translation_ru": "территория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "техника",
+"translation_ru": "техника",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тип",
+"translation_ru": "тип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тонна",
+"translation_ru": "тонна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "транспорт",
+"translation_ru": "транспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "требование",
+"translation_ru": "требование",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тренер",
+"translation_ru": "тренер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "турнир",
+"translation_ru": "турнир",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "удар",
+"translation_ru": "удар",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "узел",
+"translation_ru": "узел",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "уникальный",
+"translation_ru": "уникальный",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "уровень",
+"translation_ru": "уровень",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "устав",
+"translation_ru": "устав",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "устойчивость",
+"translation_ru": "устойчивость",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "утро",
+"translation_ru": "утро",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "учебник",
+"translation_ru": "учебник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "факт",
+"translation_ru": "факт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "факультет",
+"translation_ru": "факультет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "февраль",
+"translation_ru": "февраль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "фильм",
+"translation_ru": "фильм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "финансы",
+"translation_ru": "финансы",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "форма",
+"translation_ru": "форма",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "фото",
+"translation_ru": "фото",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "функция",
+"translation_ru": "функция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "характер",
+"translation_ru": "характер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "хозяин",
+"translation_ru": "хозяин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "центр",
+"translation_ru": "центр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "цифра",
+"translation_ru": "цифра",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "часть",
+"translation_ru": "часть",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "человек",
+"translation_ru": "человек",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "чемпион",
+"translation_ru": "чемпион",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "широта",
+"translation_ru": "широта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "школа",
+"translation_ru": "школа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экзамен",
+"translation_ru": "экзамен",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эксперт",
+"translation_ru": "эксперт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экспорт",
+"translation_ru": "экспорт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "элемент",
+"translation_ru": "элемент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эмоция",
+"translation_ru": "эмоция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "энергия",
+"translation_ru": "энергия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "этаж",
+"translation_ru": "этаж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эффект",
+"translation_ru": "эффект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "юрист",
+"translation_ru": "юрист",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "январь",
+"translation_ru": "январь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "автобус",
+"translation_ru": "автобус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "автомат",
+"translation_ru": "автомат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "автомобиль",
+"translation_ru": "автомобиль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "агент",
+"translation_ru": "агент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "агентство",
+"translation_ru": "агентство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "акцент",
+"translation_ru": "акцент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "анализ",
+"translation_ru": "анализ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "анекдот",
+"translation_ru": "анекдот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аппарат",
+"translation_ru": "аппарат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "архив",
+"translation_ru": "архив",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "аспект",
+"translation_ru": "аспект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ассоциация",
+"translation_ru": "ассоциация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "атом",
+"translation_ru": "атом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "афиша",
+"translation_ru": "афиша",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "баланс",
+"translation_ru": "баланс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "банк",
+"translation_ru": "банк",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бензин",
+"translation_ru": "бензин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "билет",
+"translation_ru": "билет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "блокнот",
+"translation_ru": "блокнот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "бюджет",
+"translation_ru": "бюджет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вагон",
+"translation_ru": "вагон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "валюта",
+"translation_ru": "валюта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ванна",
+"translation_ru": "ванна",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вердикт",
+"translation_ru": "вердикт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вирус",
+"translation_ru": "вирус",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вклад",
+"translation_ru": "вклад",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вложение",
+"translation_ru": "вложение",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "вмешательство",
+"translation_ru": "вмешательство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "возврат",
+"translation_ru": "возврат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "воздействие",
+"translation_ru": "воздействие",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "галерея",
+"translation_ru": "галерея",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гарантия",
+"translation_ru": "гарантия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гид",
+"translation_ru": "гид",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гимназия",
+"translation_ru": "гимназия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "горизонт",
+"translation_ru": "горизонт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "грамматика",
+"translation_ru": "грамматика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "график",
+"translation_ru": "график",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "гроссмейстер",
+"translation_ru": "гроссмейстер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "демократия",
+"translation_ru": "демократия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диагноз",
+"translation_ru": "диагноз",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диалог",
+"translation_ru": "диалог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диван",
+"translation_ru": "диван",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "диплом",
+"translation_ru": "диплом",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "директор",
+"translation_ru": "директор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "досада",
+"translation_ru": "досада",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "дубликат",
+"translation_ru": "дубликат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зарплата",
+"translation_ru": "зарплата",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "зона",
+"translation_ru": "зона",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "идеал",
+"translation_ru": "идеал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "издание",
+"translation_ru": "издание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "инстинкт",
+"translation_ru": "инстинкт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интеллект",
+"translation_ru": "интеллект",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интервью",
+"translation_ru": "интервью",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "интернат",
+"translation_ru": "интернат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "источник",
+"translation_ru": "источник",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "календарь",
+"translation_ru": "календарь",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кампания",
+"translation_ru": "кампания",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кандидат",
+"translation_ru": "кандидат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "капитал",
+"translation_ru": "капитал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "капсула",
+"translation_ru": "капсула",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "карантин",
+"translation_ru": "карантин",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "касса",
+"translation_ru": "касса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "категория",
+"translation_ru": "категория",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "квартира",
+"translation_ru": "квартира",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "километр",
+"translation_ru": "километр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кодекс",
+"translation_ru": "кодекс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "командировка",
+"translation_ru": "командировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комбинат",
+"translation_ru": "комбинат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "коммерция",
+"translation_ru": "коммерция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "компенсация",
+"translation_ru": "компенсация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "комплекс",
+"translation_ru": "комплекс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конверт",
+"translation_ru": "конверт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конвертация",
+"translation_ru": "конвертация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "конгресс",
+"translation_ru": "конгресс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "консультация",
+"translation_ru": "консультация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "координата",
+"translation_ru": "координата",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "копейка",
+"translation_ru": "копейка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "корреспондент",
+"translation_ru": "корреспондент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кофе",
+"translation_ru": "кофе",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кризис",
+"translation_ru": "кризис",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "кристалл",
+"translation_ru": "кристалл",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "культура",
+"translation_ru": "культура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "курьер",
+"translation_ru": "курьер",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ланч",
+"translation_ru": "ланч",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лифт",
+"translation_ru": "лифт",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "лицей",
+"translation_ru": "лицей",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магистр",
+"translation_ru": "магистр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "магистратура",
+"translation_ru": "магистратура",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "майор",
+"translation_ru": "майор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "максимум",
+"translation_ru": "максимум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "маркетинг",
+"translation_ru": "маркетинг",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "масса",
+"translation_ru": "масса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "математика",
+"translation_ru": "математика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "миграция",
+"translation_ru": "миграция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "минимум",
+"translation_ru": "минимум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "модуль",
+"translation_ru": "модуль",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монолог",
+"translation_ru": "монолог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "монумент",
+"translation_ru": "монумент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мотор",
+"translation_ru": "мотор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "мультимедиа",
+"translation_ru": "мультимедиа",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "навигатор",
+"translation_ru": "навигатор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "налог",
+"translation_ru": "налог",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "нация",
+"translation_ru": "нация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "новость",
+"translation_ru": "новость",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "номинация",
+"translation_ru": "номинация",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "округ",
+"translation_ru": "округ",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "опция",
+"translation_ru": "опция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пансионат",
+"translation_ru": "пансионат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "параграф",
+"translation_ru": "параграф",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пациент",
+"translation_ru": "пациент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пенсия",
+"translation_ru": "пенсия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "песня",
+"translation_ru": "песня",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пилот",
+"translation_ru": "пилот",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поверхность",
+"translation_ru": "поверхность",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "поликлиника",
+"translation_ru": "поликлиника",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "полюс",
+"translation_ru": "полюс",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "портал",
+"translation_ru": "портал",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "посольство",
+"translation_ru": "посольство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пост",
+"translation_ru": "пост",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "почта",
+"translation_ru": "почта",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "практика",
+"translation_ru": "практика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "препарат",
+"translation_ru": "препарат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "пресса",
+"translation_ru": "пресса",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "прибор",
+"translation_ru": "прибор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "психология",
+"translation_ru": "психология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ракета",
+"translation_ru": "ракета",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "расписание",
+"translation_ru": "расписание",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "резиденция",
+"translation_ru": "резиденция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "репетитор",
+"translation_ru": "репетитор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "ритм",
+"translation_ru": "ритм",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "роман",
+"translation_ru": "роман",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "салон",
+"translation_ru": "салон",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "семестр",
+"translation_ru": "семестр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "сертификат",
+"translation_ru": "сертификат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "спор",
+"translation_ru": "спор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стаж",
+"translation_ru": "стаж",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стенд",
+"translation_ru": "стенд",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стереотип",
+"translation_ru": "стереотип",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "стипендия",
+"translation_ru": "стипендия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тенденция",
+"translation_ru": "тенденция",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "техникум",
+"translation_ru": "техникум",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "технология",
+"translation_ru": "технология",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "тренировка",
+"translation_ru": "тренировка",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "труба",
+"translation_ru": "труба",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "университет",
+"translation_ru": "университет",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "физика",
+"translation_ru": "физика",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "формат",
+"translation_ru": "формат",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "формула",
+"translation_ru": "формула",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "химия",
+"translation_ru": "химия",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "хор",
+"translation_ru": "хор",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "хозяйство",
+"translation_ru": "хозяйство",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "шахматы",
+"translation_ru": "шахматы",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "экземпляр",
+"translation_ru": "экземпляр",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "эксперимент",
+"translation_ru": "эксперимент",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "электроника",
+"translation_ru": "электроника",
+"transcription": null,
+"example_sentence": null
+},
+{
+"word_kz": "язык",
+"translation_ru": "язык",
+"transcription": null,
+"example_sentence": null
+}
+]
